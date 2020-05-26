@@ -1,4 +1,1 @@
-# tange-ai.com
-
-redirect to https://tange.ai
-
+Official site https://tange.ai
